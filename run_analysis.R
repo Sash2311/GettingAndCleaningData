@@ -68,7 +68,7 @@ cleanedDataSet <- cbind(join_subject, join_label, join_data)
 # should display 10299*68
 dim(cleanedDataSet) 
 # write out the 1st dataset
-write.table(cleanedDataSet, "merged_data.txt") 
+write.table(cleanedDataSet, "merged_data_set.txt") 
 
 # Step 8: Creates a second, independent tidy data set with the average of 
 # each variable for each activity and each subject. 
