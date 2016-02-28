@@ -1,4 +1,4 @@
-# setwd("~/Desktop/Data Science/Getting and Cleaning Data/Week 4/Assignment Week 4/UCI HAR Dataset")
+# setwd("~/Desktop/Data Science/Getting and Cleaning Data/Week 4/Assignment Week 4")
 # Step 1: Libraries used
 library(data.table)
 library(dplyr)
